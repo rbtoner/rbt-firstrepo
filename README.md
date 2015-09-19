@@ -5,6 +5,6 @@
 First repository (for Data Scientist's Toolbox)
 
 Here is a list:
-*first item
-*second item
-*third item
+* first item
+* second item
+* third item
